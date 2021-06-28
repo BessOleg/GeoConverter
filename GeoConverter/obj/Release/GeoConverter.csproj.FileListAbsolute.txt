@@ -1,0 +1,19 @@
+C:\Users\Rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\bin\Release\GeoConverter.exe.config
+C:\Users\Rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\bin\Release\GeoConverter.exe
+C:\Users\Rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\bin\Release\GeoConverter.pdb
+C:\Users\Rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Release\GeoConverter.Form1.resources
+C:\Users\Rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Release\GeoConverter.Properties.Resources.resources
+C:\Users\Rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Release\GeoConverter.csproj.GenerateResource.Cache
+C:\Users\Rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Release\GeoConverter.exe
+C:\Users\Rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Release\GeoConverter.pdb
+C:\Users\Rimka\Documents\Visual Studio 2013\Projects\GeoConverter\GeoConverter\obj\Release\GeoConverter.csprojAssemblyReference.cache
+D:\repos\GeoConverter\GeoConverter\bin\Release\GeoConverter.exe.config
+D:\repos\GeoConverter\GeoConverter\bin\Release\GeoConverter.exe
+D:\repos\GeoConverter\GeoConverter\bin\Release\GeoConverter.pdb
+D:\repos\GeoConverter\GeoConverter\obj\Release\GeoConverter.csprojAssemblyReference.cache
+D:\repos\GeoConverter\GeoConverter\obj\Release\GeoConverter.Form1.resources
+D:\repos\GeoConverter\GeoConverter\obj\Release\GeoConverter.Properties.Resources.resources
+D:\repos\GeoConverter\GeoConverter\obj\Release\GeoConverter.csproj.GenerateResource.cache
+D:\repos\GeoConverter\GeoConverter\obj\Release\GeoConverter.csproj.CoreCompileInputs.cache
+D:\repos\GeoConverter\GeoConverter\obj\Release\GeoConverter.exe
+D:\repos\GeoConverter\GeoConverter\obj\Release\GeoConverter.pdb

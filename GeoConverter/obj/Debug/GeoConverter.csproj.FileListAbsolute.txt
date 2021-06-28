@@ -1,0 +1,9 @@
+c:\users\rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\bin\Debug\GeoConverter.exe.config
+c:\users\rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\bin\Debug\GeoConverter.exe
+c:\users\rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\bin\Debug\GeoConverter.pdb
+c:\users\rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Debug\GeoConverter.csprojResolveAssemblyReference.cache
+c:\users\rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Debug\GeoConverter.Form1.resources
+c:\users\rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Debug\GeoConverter.Properties.Resources.resources
+c:\users\rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Debug\GeoConverter.csproj.GenerateResource.Cache
+c:\users\rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Debug\GeoConverter.exe
+c:\users\rimka\documents\visual studio 2013\Projects\GeoConverter\GeoConverter\obj\Debug\GeoConverter.pdb
